@@ -1,0 +1,10 @@
+C:\Users\Mala\Desktop\23f-7095 PF A-03\data project\data project\x64\Debug\data project.vcxproj.AssemblyReference.cache
+C:\Users\Mala\Desktop\23f-7095 PF A-03\data project\data project\x64\Debug\dataproject.Insert.resources
+C:\Users\Mala\Desktop\23f-7095 PF A-03\data project\data project\x64\Debug\dataproject.MyForm.resources
+C:\Users\Mala\Desktop\23f-7095 PF A-03\data project\data project\x64\Debug\dataproject.Search.resources
+C:\Users\Mala\Desktop\23f-7095 PF A-03\data project\data project\x64\Debug\data project.vcxproj.GenerateResource.cache
+C:\Users\Mala\Desktop\newww\data project - Copy (2)\data project\x64\Debug\data project.vcxproj.AssemblyReference.cache
+C:\Users\Mala\Desktop\newww\data project - Copy (2)\data project\x64\Debug\dataproject.Insert.resources
+C:\Users\Mala\Desktop\newww\data project - Copy (2)\data project\x64\Debug\dataproject.MyForm.resources
+C:\Users\Mala\Desktop\newww\data project - Copy (2)\data project\x64\Debug\dataproject.Search.resources
+C:\Users\Mala\Desktop\newww\data project - Copy (2)\data project\x64\Debug\data project.vcxproj.GenerateResource.cache
